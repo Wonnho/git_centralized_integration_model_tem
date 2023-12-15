@@ -1,1 +1,3 @@
-java function
+//java function
+public class Java {
+}
